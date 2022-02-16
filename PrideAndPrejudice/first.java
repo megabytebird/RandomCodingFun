@@ -5,7 +5,7 @@
  * @author (your name)
  * @version (a version number or a date)
  */
-public class first
+public class First
 {
     public static void main(String[] args){
         System.out.println("Hello World");
@@ -16,7 +16,7 @@ public class first
     /**
      * Constructor for objects of class first
      */
-    public first()
+    public First()
     {
         // initialise instance variables
         x = 0;
